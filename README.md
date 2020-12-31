@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm Yekta, a passionate computer programming student from Turkey.
+I'm Yekta, a passionate computer programming student from Istanbul.
 
   <img align="right" alt="GIF" src="https://github.com/davidcelis/gifs/blob/master/deal-with-it/squirtle.gif" width="500" height="320" />
   
