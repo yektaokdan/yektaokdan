@@ -39,7 +39,11 @@ I'm Yekta, a passionate computer programming student from Istanbul.
 <code><img height="20" src="https://upload.turkcewiki.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"></code>
 
 
-<br> <br><br><br><br>
+ **Daily Report:**
+<!-- TODO-IST:START -->
+  - Completed 4 tasks today           
+  - Completed 298 tasks so far
+<!-- TODO-IST:END -->
 
 
 
