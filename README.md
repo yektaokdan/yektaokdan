@@ -45,8 +45,8 @@ I'm Yekta, a passionate computer programming student from Istanbul.
 
  **Daily Report:**
 <!-- TODO-IST:START -->
-  Completed 4 tasks today           
-  Completed 298 tasks so far
+  • Completed 4 tasks today           
+  • Completed 298 tasks so far
 <!-- TODO-IST:END -->
 
 
