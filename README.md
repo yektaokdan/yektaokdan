@@ -21,10 +21,10 @@ I'm Yekta, a passionate computer programming student from Istanbul.
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 At the moment only I'm dealing with school projects.;
-- 🌱 I’m currently learning C Family n Web stuffs; 
-- 💬 Ask me about anything;
-- 📫 How to reach me: [@3yekta](https://www.instagram.com/3yekta/);
+- At the moment only I'm dealing with school projects.;
+- I’m currently learning C Family n Web stuffs; 
+- Ask me about anything;
+- How to reach me: [@3yekta](https://www.instagram.com/3yekta/);
 
 **Languages and Tools:**  
 
@@ -43,11 +43,10 @@ I'm Yekta, a passionate computer programming student from Istanbul.
 
 
 
-🚧 **Daily Report:**
+ **Daily Report:**
 <!-- TODO-IST:START -->
-🌸  Completed 4 tasks today           
-✅  Completed 498 tasks so far           
-⏳  Longest streak is 10 days
+  Completed 4 tasks today           
+  Completed 298 tasks so far
 <!-- TODO-IST:END -->
 
 
