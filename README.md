@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/yektaokdan/">
   <img align="left" alt="Yekta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/eg5p2wxjq52cu6vvdow3wgonu?si=se-WjGM3SOyUkLeFI_0npg">
-  <img align="left" alt="Yekta's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=yektaokdan.yektaokdan)
