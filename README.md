@@ -39,8 +39,8 @@ I'm Yekta, a passionate computer engineering student from Istanbul.
 
  **Daily Report:**
 <!-- TODO-IST:START -->
-  - Completed 4 tasks today           
-  - Completed 298 tasks so far
+  - Completed # tasks today           
+  - Completed # tasks so far
 <!-- TODO-IST:END -->
 
 
