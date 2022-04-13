@@ -15,7 +15,7 @@
 
 I'm Yekta, a passionate computer engineering student from Istanbul.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif" width="450" height="450" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif" width="350" height="350" />
   
 **Talking about Personal Stuffs:**
 
