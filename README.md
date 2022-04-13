@@ -51,7 +51,7 @@ I'm Yekta, a passionate computer engineering student from Istanbul.
 📈 My GitHub Stats
 
 <p align="center"> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yektaokdan&show_icons=true&theme=gotham" alt="yektaokdan" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true" alt="yektaokdan" />
 <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yektaokdan&layout=compact&langs_count=8&theme=gotham"/>
 </p>
 
