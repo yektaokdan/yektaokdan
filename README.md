@@ -20,7 +20,7 @@ I'm Yekta, a passionate computer engineering student from Istanbul.
 **Talking about Personal Stuffs:**
 
 - At the moment only I'm dealing with school projects.;
-- I’m currently learning C Family n Web stuffs; 
+- I’m currently working on iOS Development using Swift; 
 - Ask me about anything;
 - How to reach me: [@3yekta](https://www.instagram.com/3yekta/);
 
