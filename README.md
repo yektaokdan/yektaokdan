@@ -1,11 +1,7 @@
 ### Hey there 
-<a href="https://twitter.com/3yekta">
-  <img align="left" alt="Yekta Okdan | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/yektaokdan/">
-  <img align="left" alt="Yekta's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/yusufaktan)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/yusufaktan)
+[![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:yusufaktn@outlook.com)
 
 
 
