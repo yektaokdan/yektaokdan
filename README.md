@@ -6,7 +6,7 @@
 
 
 
-I'm Yekta, a passionate computer engineering student from Istanbul.
+I'm Yekta, a passionate computer engineer from Istanbul.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif" width="350" height="350" style= "border=5px solid black" />
   
