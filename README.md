@@ -1,13 +1,10 @@
 ### Hey there 
-[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/yusufaktan)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/yusufaktan)
-[![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:yusufaktn@outlook.com)
+[![Linkedin](https://img.shields.io/badge/Linkedin-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/yektaokdan)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/yektaokdan)
+[![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:yektaokdan@gmail.com)
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=yektaokdan.yektaokdan)
-
-<br />
 
 I'm Yekta, a passionate computer engineering student from Istanbul.
 
