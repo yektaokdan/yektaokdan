@@ -19,15 +19,57 @@ I'm Yekta, a passionate computer engineer from Istanbul.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://upload.turkcewiki.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png"></code>
+<!-- Dart -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
+
+<!-- Git -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg"></code>
+
+<!-- Java -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
+
+<!-- JavaScript -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+
+<!-- Kotlin -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg"></code>
+
+<!-- Python -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+
+<!-- Swift -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg"></code>
+
+<!-- HTML -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+
+<!-- React -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+
+<!-- CSS -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
+
+<!-- Bootstrap -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"></code>
+
+<!-- NodeJS -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+
+<!-- MySQL -->
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+
+<!-- Firebase -->
+<code><img height="20" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+
+<!-- Flutter -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.svg"></code>
+
+<!-- Arduino -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"></code>
+
+<!-- Docker -->
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png"></code>
+
 
 
  **Daily Report:**
