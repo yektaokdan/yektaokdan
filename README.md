@@ -13,7 +13,7 @@ I'm Yekta, a passionate computer engineer from Istanbul.
 **Talking about Personal Stuffs:**
 
 - At the moment only I'm dealing with company projects.;
-- I’m currently working on Mobile App Development using Kotlin & Flutter; 
+- I’m currently working on Mobile App Development using Swift & Flutter; 
 - Ask me about anything;
 - How to reach me: [@3yekta](https://www.instagram.com/3yekta/);
 
