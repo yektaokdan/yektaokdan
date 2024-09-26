@@ -22,17 +22,9 @@ I'm Yekta, a passionate computer engineer from Istanbul.
 <p align="left">
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="30" height="30" alt="Swift" /></a> 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="30" height="30" alt="Xcode" /></a> 
-<a href="https://developer.apple.com/documentation/uikit" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/uikit/uikit-original.svg" width="30" height="30" alt="UIKit" />
-</a>
-<a href="https://developer.apple.com/documentation/swiftui" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swiftui/swiftui-original.svg" width="30" height="30" alt="SwiftUI" />
-</a>
+
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></a> 
 <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="30" height="30" alt="macOS" /></a> 
-<a href="https://www.apple.com/macos" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/macOS-black?style=flat&logo=apple&logoColor=white" width="30" height="30" alt="macOS" />
-</a>
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
