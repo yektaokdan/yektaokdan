@@ -26,6 +26,7 @@ I'm Yekta, a passionate computer engineer from Istanbul.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30" height="30" alt="Figma" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" width="30" height="30" alt="Flutter" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" height="30" alt="Git" /></a>
 <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="30" height="30" alt="macOS" /></a> 
 
 </p>
