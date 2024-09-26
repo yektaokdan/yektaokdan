@@ -23,7 +23,7 @@ I'm Yekta, a passionate computer engineer from Istanbul.
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="30" height="30" alt="Swift" /></a> 
 <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" width="30" height="30" alt="Xcode" /></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="30" height="30" alt="Firebase" /></a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" width="30" height="30" alt="Figma" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="30" height="30" alt="Figma" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></a>
 <a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="30" height="30" alt="macOS" /></a> 
 
