@@ -35,7 +35,7 @@ I'm Yekta, a passionate computer engineer from Istanbul.
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="30" height="30" alt="Docker" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Postman-black?style=flat&logo=postman" width="30" height="30" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="30" height="30" alt="Postman" />
 </a>
 </p>
 
