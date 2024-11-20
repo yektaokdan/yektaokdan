@@ -25,8 +25,7 @@ I'm Yekta, a passionate computer engineer from Istanbul.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="30" height="30" alt="Git" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="30" height="30" alt="MySQL" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" width="30" height="30" alt="Postman" /></a>
-<a href="https://www.apple.com/macos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="30" height="30" alt="macOS" /></a> 
-
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="30" height="30" alt="PostgreSQL" /></a> 
 </p>
 
 
