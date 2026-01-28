@@ -1,18 +1,21 @@
-### Hey there 
+### Hey there 👋  
 [![Linkedin](https://img.shields.io/badge/Linkedin-000?style=flat&logoColor=blue&logo=linkedin)](https://www.linkedin.com/in/yektaokdan)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/yektaokdan)
 [![Mail](https://img.shields.io/badge/Mail-000?style=flat&logoColor=red&logo=gmail)](mailto:yektaokdan@gmail.com)
 
-I'm Yekta, a passionate computer engineer from Istanbul.
+I'm Yekta, a **QA Engineer** based in Istanbul, focused on building reliable, scalable, and bug-resistant products.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif" width="350" height="350" style= "border=5px solid black" />
-  
+<img align="right" alt="GIF" src="https://media.giphy.com/media/HPu8bxH13Zr1sAHWe3/giphy.gif" width="350" height="350" style="border:5px solid black" />
+
 **Talking about Personal Stuffs:**
 
-- At the moment only I'm dealing with company projects;
-- I’m currently working on Mobile App Development using Spring Boot & Swift; 
-- Ask me about anything;
-- How to reach me: [@3yekta](https://www.instagram.com/3yekta/);
+- 🔍 Actively working on **company projects** with a strong focus on quality and reliability  
+- 📱 Experienced in **Mobile App Testing (iOS & Android)**  
+- 🤖 Interested in **Test Automation, AI-assisted testing, and CI/CD pipelines**  
+- 🧪 Enjoy breaking things before users do  
+- 💬 Ask me about **QA processes, test strategies, automation, or bug hunting**  
+- 📫 How to reach me: [@3yekta](https://www.instagram.com/3yekta/)
+
 
 **Languages and Tools:**  
 
