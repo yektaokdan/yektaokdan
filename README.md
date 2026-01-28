@@ -31,20 +31,6 @@ I'm Yekta, a **QA Engineer** based in Istanbul, focused on building reliable, sc
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" width="30" height="30" alt="PostgreSQL" /></a> 
 </p>
 
-
-
-
- **Daily Report:**
-<!-- TODO-IST:START -->
-  - Completed # tasks today           
-  - Completed # tasks so far
-<!-- TODO-IST:END -->
-
-
-
-
-
-
 📈 My GitHub Stats
 
 <p align="center"> 
