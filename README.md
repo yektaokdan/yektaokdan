@@ -9,12 +9,12 @@ I'm Yekta, a **QA Engineer** based in Istanbul, focused on building reliable, sc
 
 **Talking about Personal Stuffs:**
 
-- 🔍 Actively working on **company projects** with a strong focus on quality and reliability  
-- 📱 Experienced in **Mobile App Testing (iOS & Android)**  
-- 🤖 Interested in **Test Automation, AI-assisted testing, and CI/CD pipelines**  
-- 🧪 Enjoy breaking things before users do  
-- 💬 Ask me about **QA processes, test strategies, automation, or bug hunting**  
-- 📫 How to reach me: [@3yekta](https://www.instagram.com/3yekta/)
+- Actively working on **company projects** with a strong focus on quality and reliability  
+- Experienced in **Mobile App Testing (iOS & Android)**  
+- Interested in **Test Automation, AI-assisted testing, and CI/CD pipelines**  
+- Enjoy breaking things before users do  
+- Ask me about **QA processes, test strategies, automation, or bug hunting**  
+- How to reach me: [@3yekta](https://www.instagram.com/3yekta/)
 
 
 **Languages and Tools:**  
